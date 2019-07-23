@@ -1,0 +1,34 @@
+#title{
+  text-align: center;
+  background-color:red;
+}
+
+.container{
+  padding-top:100px;
+  padding-bottom:25px;
+}
+
+h1{
+  color:yellow;
+  font-size: 80px;
+}
+
+.dice1,.dice2{
+  display: inline-block;
+  width:49%;
+  text-align: center;
+}
+
+#dice{
+  background-color: yellow;
+}
+
+#f{
+  background-color: red;
+  text-align: center;
+}
+
+.footer-down{
+  margin-top: 0;
+  margin-bottom: 0;
+}
